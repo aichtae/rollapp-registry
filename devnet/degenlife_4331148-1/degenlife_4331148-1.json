@@ -1,0 +1,33 @@
+{
+  "chainId": "degenlife_4331148-1",
+  "chainName": "degenlife_4331148-1",
+  "rpc": “http://5.182.87.16:26657”:,
+  "rest": "http://5.182.87.16:1317”,
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DGL",
+      "baseDenom": "uDGL",
+      "decimals": 18,
+      "logo": "/logos/degenlife_4331148-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "http://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/degenlife_4331148-1.png",
+  "ibc": {
+    "hubChannel": "channel-9132",
+    "channel": "channel-6",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x42168c",
+    "rpc": "http://5.182.87.16:8545”
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": “A chain for all crypto DEGENERATES!”,
+  "analytics": true
+}
